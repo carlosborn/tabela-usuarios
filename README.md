@@ -14,3 +14,5 @@
 ## Instalação 
 
 ### **Linux**
+
+> É extremamente recomendado que, antes de realizar a instalação de quaisquer softwares, utilize os comandos *update* e *upgrade* para garantir as versões mais recentes de todos programas instalados.
