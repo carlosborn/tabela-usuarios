@@ -156,7 +156,7 @@ Sua saída deve ser semelhante a esta:
     |  6 | Maria   | i      |
     +----+---------+--------+
 
-### **Instalação do Apache e driver MySQL**
+### **Instalação do PHP e driver PHP-MySQL**
 Agora, por último, vamos realizar a instalação do PHP e o driver que utilizaremos para conexão com o banco de dados.
 Para Instalar, abra seu terminal e digite:
 
