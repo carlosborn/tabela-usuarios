@@ -97,7 +97,7 @@ Nas demais questões, pode-se marcar sim (Y) para todas.
 
 Para entrar no MySQL, digite no console:
   
-    sudo mysql
+    sudo mysql -u <nome_usuario> -p<senha_do_usuario>
 
 Ele abrirá o shell do MySQL, como no exemplo:
 
