@@ -213,7 +213,7 @@ Para executarmos nosso projeto, basta abrir seu navegador de preferência. O sis
 
 Estes três parâmetros são passados via GET na URL do programa, como exemplo abaixo:
 
-    localhost/git-clone/trabalho/index.php?usuario=root&senha=mysql&host=localhost
+    localhost/git-clone/tabela-usuarios/content/index.php?usuario=root&senha=mysql&host=localhost
 
 > Lembrando que no lugar de **git-clone** deverá ser substituído pela pasta que você criou no tópico anterior!
 > Os parâmetros de usuário, senha e host deverão ser colocados conforme você configurou na sua máquina. Os apresentados acima somente servem de exemplo.
